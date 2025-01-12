@@ -108,5 +108,8 @@ Feel free to open an issue or submit a pull request for improvements or new feat
 
 ## Incomplete...
 
-This project is incomplete and i made it as i am just a starter to code in c and its somehow working but if someone thakes this raw code and modifies can contact me and contribute!
+This project is incomplete and i made it as i am just a starter to code in c and its somehow working but hope some experienced c programmer will modify it or contribute here...
+
+## ScriptKiddy -> TheGreen
+Just randrom thought came on my mind while using msfvenom payload that if are disconnected mistakely then we have to re run the payload in victim machine and in testing it's fine but in doing in real place its simply not possible and i dont know if there is something like this already available or something on github or somewhere on internet but this repo is just a scriptKiddy thoughts and mades ...
 
