@@ -110,5 +110,5 @@ Feel free to open an issue or submit a pull request for improvements or new feat
 
 This project is incomplete and i made it as i am just a starter to code in c and its somehow working but hope some experienced c programmer will modify it or contribute here...
 
-ScriptKiddy -> TheGreen
+## ScriptKiddy -> TheGreen
 Just random thought came to my mind while using msfvenom payload that if we are disconnected mistakenly, then we have to re-run the payload on the victim's machine. In testing, it's fine, but in a real scenario, it's simply not possible to re-run the payload or something like that situation may occur. I thought about this and I don't know if something like this is already available on GitHub or somewhere on the internet, but this repo is just a ScriptKiddy thought and made so that after running it once, we can connect to it whenever we want. If we are connected, it doesn't send the connection request, and if disconnected, it starts sending the connection request every second and loop...
