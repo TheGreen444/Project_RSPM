@@ -1,0 +1,10 @@
+Install gcc mayabe preinstalled in linux if not install
+use command:
+gcc -o executableToMake codefile.c
+
+after that executable will be created:
+use this to run it:
+./executable
+or if not run use: 
+./executable &
+

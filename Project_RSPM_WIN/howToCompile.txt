@@ -1,0 +1,9 @@
+if(fine){
+sudo apt-get install mingw-w64
+x86_64-w64-mingw32-gcc -o reverse_shell.exe reverse_shell.c -lws2_32
+}
+if(fine == err){
+sudo apt update
+sudo apt install mingw-w64
+x86_64-w64-mingw32-gcc reverse_shell3.c -o rs.exe -lws2_32 -mwindows
+}
