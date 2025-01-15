@@ -100,7 +100,9 @@ The repository is structured as follows:
 
 ---
 
-## Contributing
+# Contributors
+
+- ![blackhatvenomm](https://avatars.githubusercontent.com/u/165780376?v=4) [blackhatvenomm](https://github.com/blackhatvenomm)
 
 Feel free to open an issue or submit a pull request for improvements or new features. Contributions are welcome!
 
