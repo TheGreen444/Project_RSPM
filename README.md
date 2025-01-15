@@ -1,6 +1,6 @@
 # Project_Reverse Shell Pro Max (Project_RSPM)
 
-Read more about it in About or Descreption or down bellow...
+Read more about it in descreption or down below...
 
 ---
 
